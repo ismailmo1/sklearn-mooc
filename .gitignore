@@ -2,6 +2,6 @@
 *
 # Don't ignore directories, so we can recurse into them
 !*/
-# Don't ignore .gitignore and *.foo files
+# Don't ignore .gitignore and *.exercise files
 !.gitignore
 !*_ex_* 
